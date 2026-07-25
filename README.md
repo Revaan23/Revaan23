@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Revaan J R h1>
+<h1 align="center">Hi 👋 I'm Revaan J R >
 
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Full-Stack Development
@@ -40,12 +40,16 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 🚀 I enjoy building real-world AI solutions that combine intelligent algorithms with modern web technologies.
 
-🌱 Currently learning
 
-- Large Language Models (LLMs)
-- MLOps
-- System Design
-- Cloud Deployment
+---
+
+# 📚 Currently Working On
+
+- 🚀 Building AI-powered Full-Stack Applications
+- 🤖 Exploring Machine Learning & Generative AI
+- 💻 Strengthening Data Structures & Algorithms
+- 🌐 Developing Interactive Web Applications
+- 📈 Solving Real-World Problems through AI
 
 ---
 
