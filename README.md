@@ -22,7 +22,7 @@ Building intelligent software through AI, innovation, and modern technologies.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rev23/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -30,7 +30,7 @@ Building intelligent software through AI, innovation, and modern technologies.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Revaan23&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Revaan23&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -38,25 +38,37 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/3o7TKsQ8UQx4W6V6lG/giphy.gif"/>
+<table>
+<tr>
+
+<td width="58%">
 
 🎓 **B.Tech Artificial Intelligence & Data Science**
 
 🏫 **Madras Institute of Technology (MIT), Chennai**
 
-💻 Passionate about **Full-Stack Development**, **Machine Learning**, **Computer Vision**, and **Generative AI**
+💻 Passionate about **Machine Learning, Full-Stack Development, Computer Vision, and Generative AI**
 
-🚀 I enjoy building intelligent software and AI-powered applications that solve real-world problems.
+🚀 I enjoy building AI-powered applications that solve real-world problems through intelligent software and modern technologies.
 
----
-
-# 🚀 Currently Working On
+### 🚀 Currently Working On
 
 - 🤖 AI-Powered Full-Stack Applications
 - 🧠 Machine Learning & Generative AI
 - 💻 Data Structures & Algorithms
 - 🌐 Interactive Web Applications
 - 📈 Real-World AI Solutions
+
+</td>
+
+<td width="42%">
+
+<img src="https://media.giphy.com/media/3o7TKsQ8UQx4W6V6lG/giphy.gif" width="100%">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -74,53 +86,11 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 | 🚀 Project | Description |
 |------------|-------------|
-| 📚 **AI E-Book Creator** | AI-powered platform for generating intelligent e-books. |
-| 🐠 **Smart Aquarium Monitoring System** | IoT-based real-time aquarium monitoring and automation. |
-| 🏦 **Bank Management System** | Banking application for customer and transaction management. |
-| 🧩 **Sliding Puzzle Solver** | Interactive visualization using BFS, DFS, and A* Search Algorithms. |
+| 📚 **AI E-Book Creator** | AI-powered platform for generating intelligent e-books using Generative AI. |
+| 🐠 **Smart Aquarium Monitoring System** | IoT-based real-time monitoring and automation system. |
+| 🏦 **Bank Management System** | Secure banking application for customer and transaction management. |
+| 🧩 **Sliding Puzzle Solver** | Interactive visualization implementing BFS, DFS, and A* Search Algorithms. |
 | 🎨 **Graph Coloring Visualizer** | Interactive Greedy Graph Coloring visualization for Constraint Satisfaction Problems. |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Revaan23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revaan23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Revaan23&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Revaan23&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revaan23&theme=tokyo-night"/>
-
-</p>
 
 ---
 
@@ -142,14 +112,56 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 ---
 
-<p align="center">
-
-💡 *"Code with purpose. Build with intelligence. Learn without limits."*
-
-</p>
+# 📊 GitHub Analytics
 
 <p align="center">
 
-⭐ **Thanks for visiting my profile!**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Revaan23&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revaan23&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Revaan23&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Revaan23&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revaan23&theme=github-dark"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Code with purpose. Build with intelligence. Learn without limits."**
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
