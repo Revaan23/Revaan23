@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Revaan J R >
+<h1 align="center">Hi 👋 I'm Revaan J R 
 
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Full-Stack Development
@@ -20,8 +20,7 @@ Building intelligent software through AI, innovation, and modern technologies.
   <a href="mailto:revaan.273@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/
-rev23">
+<a href="https://www.linkedin.com/in/rev23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Revaan23">
@@ -58,7 +57,7 @@ rev23">
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,mysql,flutter,tensorflow,pytorch,opencv,git,github,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,vscode,linux&perline=9"/>
 
 </p>
 
