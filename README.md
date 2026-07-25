@@ -35,7 +35,6 @@ Building intelligent software through AI, innovation, and modern technologies.
 </p>
 
 ---
-
 # 👨‍💻 About Me
 
 <table>
@@ -63,14 +62,12 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 <td width="42%">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQx4W6V6lG/giphy.gif" width="100%">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" width="100%"/>
 
 </td>
 
 </tr>
 </table>
-
----
 
 # 🛠️ Tech Stack
 
