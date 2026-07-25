@@ -2,7 +2,7 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Revaan J R 
+<h1 align="center">Hi 👋 I'm Revaan J R</h1>
 
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Full-Stack Development
@@ -13,43 +13,50 @@ Building intelligent software through AI, innovation, and modern technologies.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Computer+Vision+Explorer;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Computer+Vision+Explorer;Building+Intelligent+Applications"/>
 </p>
 
 <p align="center">
-  <a href="mailto:revaan.273@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="mailto:revaan.273@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/rev23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Revaan23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Revaan23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Revaan23&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBrbHJuYmtvNTR2YmFmd2J3MnE5a2w1dDljMnB3OGtmZzdhdnA2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/3o7TKsQ8UQx4W6V6lG/giphy.gif"/>
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**
+🎓 **B.Tech Artificial Intelligence & Data Science**
+
+🏫 **Madras Institute of Technology (MIT), Chennai**
 
 💻 Passionate about **Full-Stack Development**, **Machine Learning**, **Computer Vision**, and **Generative AI**
 
-🚀 I enjoy building real-world AI solutions that combine intelligent algorithms with modern web technologies.
-
+🚀 I enjoy building intelligent software and AI-powered applications that solve real-world problems.
 
 ---
 
-# 📚 Currently Working On
+# 🚀 Currently Working On
 
-- 🚀 Building AI-powered Full-Stack Applications
-- 🤖 Exploring Machine Learning & Generative AI
-- 💻 Strengthening Data Structures & Algorithms
-- 🌐 Developing Interactive Web Applications
-- 📈 Solving Real-World Problems through AI
+- 🤖 AI-Powered Full-Stack Applications
+- 🧠 Machine Learning & Generative AI
+- 💻 Data Structures & Algorithms
+- 🌐 Interactive Web Applications
+- 📈 Real-World AI Solutions
 
 ---
 
@@ -57,7 +64,7 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,vscode,linux&perline=8"/>
 
 </p>
 
@@ -68,9 +75,9 @@ Building intelligent software through AI, innovation, and modern technologies.
 | 🚀 Project | Description |
 |------------|-------------|
 | 📚 **AI E-Book Creator** | AI-powered platform for generating intelligent e-books. |
-| 🐠 **Smart Aquarium Monitoring System** | IoT-based aquarium monitoring and automation. |
+| 🐠 **Smart Aquarium Monitoring System** | IoT-based real-time aquarium monitoring and automation. |
 | 🏦 **Bank Management System** | Banking application for customer and transaction management. |
-| 🧩 **Sliding Puzzle Solver** | Interactive visualization using **BFS**, **DFS**, and **A\*** algorithms. |
+| 🧩 **Sliding Puzzle Solver** | Interactive visualization using BFS, DFS, and A* Search Algorithms. |
 | 🎨 **Graph Coloring Visualizer** | Interactive Greedy Graph Coloring visualization for Constraint Satisfaction Problems. |
 
 ---
@@ -87,7 +94,7 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -127,54 +134,22 @@ Building intelligent software through AI, innovation, and modern technologies.
 
 ✨ Generative AI
 
-🌐 Full-Stack Web Development
+🌐 Full-Stack Development
 
-📱 IoT Systems
+📱 Internet of Things (IoT)
 
 📊 Data Science
 
 ---
 
-# 📚 Currently Exploring
-
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MLOps
-- System Design
-- Cloud Computing
-- Distributed Systems
-
----
-
-# 📫 Let's Connect
-
 <p align="center">
 
-<a href="mailto:revaan.273@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/
-rev23">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Revaan23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 *"Code with purpose. Build with intelligence. Learn without limits."*
+💡 *"Code with purpose. Build with intelligence. Learn without limits."*
 
 </p>
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </p>
